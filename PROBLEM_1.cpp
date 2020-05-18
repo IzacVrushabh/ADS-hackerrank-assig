@@ -14,9 +14,9 @@ using namespace std;
 #define mpr make_pair //or simply use { a , b }
 #define mk make_tuple // acc. to que...
 #define all(v) v.begin(),v.end()
-#define sortall(v) sort(all(v))   //increasing order sorting
+#define sortall(v) sort(all(v))   //increasing order
 #define all_rev(v)  v.begin(),v.end(), greater<ll>() 
-#define sortallrev(v) sort(all_rev(v)) // reverse order sorting
+#define sortallrev(v) sort(all_rev(v)) // reverse order
 #define deb(x) cout<< #x << "=" << x <<"\n"
 #define deb2(x,y) cout<< #x << "=" << x << "," << #y << "=" << y <<"\n"
 
